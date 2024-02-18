@@ -2,14 +2,16 @@ header{
     background-color: white;
     height: 70px;
     width: 100%;
-    border-bottom: 1px solid #CCCCCC;
+    border-bottom:solid 1px #CCCCCC;
     display: flex;
+    position: fixed;
     align-items: center;
 }
-
 header .logo{
     height: 60px;
-    width: 150px;
-    background: url("../images/logo.png") no-repeat center;
-    padding-left: 20px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-image: url(/web_static/images/border\ logo.png);
+    position: fixed;
+    left: 20px;
 }
