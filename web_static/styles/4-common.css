@@ -6,10 +6,9 @@ body{
     font-family: Circular,"Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 .container{
-    margin-top:30px;
-    margin-bottom: 30px;
-    margin: auto;
+    position: relative;
+    margin: 30px 30px;
     max-width: 1000px;
-    align-items: center;
-    padding-top: 95px;
+    /* align-items: center; */
+    /* padding-top: 95px; */
 }

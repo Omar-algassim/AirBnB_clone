@@ -3,15 +3,13 @@ header{
     height: 70px;
     width: 100%;
     border-bottom:solid 1px #CCCCCC;
-    display: flex;
-    position: fixed;
     align-items: center;
+
 }
 header .logo{
     height: 60px;
     width: 100%;
     background-repeat: no-repeat;
     background-image: url(/web_static/images/border\ logo.png);
-    position: fixed;
     left: 20px;
 }
